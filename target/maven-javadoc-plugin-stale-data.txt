@@ -1,0 +1,17 @@
+cmd.exe
+/X
+/C
+"F:\JDK\Java\jdk1.8.0_261\jre\..\bin\javadoc.exe @options @argfile"
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\allclasses-frame.html = 1622207067034
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\allclasses-noframe.html = 1622207067034
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\argfile = 1622207066150
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\constant-values.html = 1622207066944
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\deprecated-list.html = 1622207067034
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\help-doc.html = 1622207067034
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\index-all.html = 1622207067034
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\index.html = 1622207067034
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\options = 1622207066150
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\overview-tree.html = 1622207067024
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\package-list = 1622207066934
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\script.js = 1622207067034
+E:\project\maven-plugin\cyclonedx-maven-plugin\target\apidocs\stylesheet.css = 1622207031796

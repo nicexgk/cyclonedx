@@ -1,0 +1,4 @@
+org\cyclonedx\maven\BaseCycloneDxMojo.class
+org\cyclonedx\maven\CycloneDxAggregateMojo.class
+org\cyclonedx\maven\CycloneDxMojo.class
+org\cyclonedx\maven\CycloneDxPackageMojo.class
